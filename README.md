@@ -1,30 +1,33 @@
 # Hi, I'm Joshua Kingsley Mwangi 👋
 
-I am a Software Engineer, Quantitative Analyst, and third-year BSc Statistics student at JKUAT. I specialize in building full-stack applications, automated IoT pipelines, and quantitative trading models. 
+I am a Software Engineer, Quantitative Analyst, and third-year BSc Statistics student at Jomo Kenyatta University of Agriculture and Technology. I specialize in building full-stack applications, automated IoT pipelines, and quantitative trading models. 
 
 > **🎯 The 100 Projects Mission:** 
 > I am currently on a mission to build and deploy 100 functional, revenue-generating web applications and business systems before I graduate. This challenge is driven by a relentless focus on rapid shipping, mastering automation, and proving that high-throughput engineering can consistently generate tangible real-world business value.
 
-You can follow my weekly builds, hardware prototyping, and IoT engineering logs at **@buildwithjosh**.
+You can follow my weekly builds, hardware prototyping, and IoT engineering logs at **@build_with_josh_** on:
+<a href="https://tiktok.com/@build_with_josh_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a> 
+<a href="https://twitter.com/build_with_josh_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Your core system tools -->
+    <!-- Core system tools -->
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     <br><br>
-    <!-- Your expanded development stack -->
-    <img src="https://skillicons.dev/icons?i=python,r,ts,js,react,nextjs,django,express,postgres,gcp,redis,linux" />
+    <!-- Expanded development stack -->
+    <img src="https://skillicons.dev/icons?i=python,django,flask,r,html,css,ts,js,react,nextjs,express,postgres,gcp,aws,redis" />
   </a>
 </p>
+<p align="center"><i>*Also heavily leveraging Agentic Networks</i></p>
 
 ---
 
 ## 🚀 Standout Projects
 *My top three platforms currently in production, spanning IoT, AI automation, and EdTech.*
 
-* **Kenya Inter-University Platform** ([interunihackathon.co.ke](https://interunihackathon.co.ke)): **Main Developer.** A comprehensive hackathon management OS featuring in-built tools like automated slide formation and rapid web generation to help students build and ship fast. This initiative is heavily statistically backed—we analyze the effects of various factors, such as acute financial burden, resource constraints, and practical experience, as direct contributors to student success.
+* **Kenya Inter-University Platform** ([interunihackathon.co.ke](https://www.interunihackathon.co.ke)): **Main Developer.** A comprehensive hackathon management OS featuring in-built tools like automated slide formation and rapid web generation to help students build and ship fast. This initiative is heavily statistically backed—we analyze the effects of various factors, such as acute financial burden, resource constraints, and practical experience, as direct contributors to student success.
 * **CyberNet Portals** ([resume.cybernet.co.ke](https://resume.cybernet.co.ke)): An AI-powered portfolio generator. Users simply upload their standard PDF resume, and the engine instantly processes it to generate an ATS-optimized CV alongside a fully featured, interactive React portfolio website.
-* **Apex Smart Gas Monitor** ([smartgasmonitor.co.ke](https://smartgasmonitor.co.ke)): **Co-founder & Lead Engineer.** An AI-powered smart home IoT ecosystem. We utilize ESP32-S3 microcontrollers and 2 MHz ultrasonic transducers for predictive LPG depletion analytics, complete with SMS telemetry via Africa's Talking. Currently expanding from consumer models into B2B property management pilots.
+* **Apex Smart Gas Monitor** ([smartgasmonitor.co.ke](https://www.smartgasmonitor.co.ke)): **Co-founder & Lead Engineer.** An AI-powered smart home IoT ecosystem. Currently expanding from consumer models into B2B property management pilots.
 
 ## 🏗️ Further Web Development & Architecture
 *Modular, schema-driven platforms and e-commerce systems.*
